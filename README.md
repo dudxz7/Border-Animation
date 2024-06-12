@@ -1,0 +1,2 @@
+<h1 align="center">Bordas Animadas 🃏</h1>
+<p>Este projeto demonstra animações de borda em dois cards usando HTML e CSS. O arquivo HTML define dois cartões, cada um contendo uma imagem centralizada. O CSS estiliza a página para centralizar os cartões e aplica animações diferentes a cada um: o primeiro card (card-animado) tem uma borda colorida que muda de cor continuamente e aumenta de tamanho ao passar o mouse, enquanto o segundo card (card-animado2) apresenta uma borda que gira 360 graus ao passar o mouse, criando um efeito visual dinâmico e atraente.</p>
